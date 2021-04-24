@@ -2,4 +2,5 @@
 Meu currículo criado  usando html e css
 
 * Para usar basta:
-  - Abrir o arquivo 'index.html' em qualquer navegador de internet
+  - Clonar o repositório de código na máquina;
+  - Encontre a pasta extraída, procure o arquivo 'index.html' e seguida abra esse arquivo em qualquer navegador de internet.
